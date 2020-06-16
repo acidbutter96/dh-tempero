@@ -125,6 +125,17 @@ a.receita_link:hover {
 	z-index: 0;
 }
 
+.about img{
+    position: relative;
+    width: 90%;
+    left: 10vh;
+}
+
+.about div{
+	padding-bottom: 10px;
+}
+
+
 #img_principal_div {
 	margin-top: 14vh;
 }
